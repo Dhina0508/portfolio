@@ -1,0 +1,96 @@
+#projects{
+    min-height: calc(100vh-4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 0 1rem;
+}
+
+.projectTitle{
+    font-size: 3rem;
+
+}
+
+.projectDesc{
+    font-weight: 300;
+    font-size: 1rem;
+    margin: 2rem 0;
+
+}
+
+.projectContainer{
+    max-height: 25rem;
+    max-width:20rem;
+    margin:1rem 1rem;
+    min-width: 20rem; 
+    min-height: 20rem;
+}
+
+
+.projectContainers{
+    max-width:85rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 80vw;
+
+}
+
+.projectImg{
+    min-width: 20rem; 
+    min-height: 18rem;
+    max-height: 18rem;
+    background: white;
+    object-fit: cover;
+    max-width:20rem;
+    display: flex;
+   
+   border-top-right-radius: 15px;
+   border-top-left-radius: 15px;
+}
+
+.projectText{
+    background: rgb(70, 70, 70);
+    text-align: left;
+    padding: 0.5rem 1rem;
+    max-width: 20rem;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+/* .projectDetails{
+text-align: justify;
+font-size: 12px;
+font-weight: 200;
+} */
+
+.button{
+    background: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.buttons{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.seeMore{
+    margin: 3rem 0;
+    padding: 0.5rem 2.5rem;
+    border: none;
+    border-radius: 2rem;
+    background: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
