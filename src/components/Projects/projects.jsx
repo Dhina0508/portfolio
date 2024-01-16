@@ -69,7 +69,7 @@ const Projects = () => {
         <div className="buttons">
         <a href='https://github.com/Dhina0508/community-app' target="_blank">
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1JsLFsyn9fZEWSLGOT4M8TiEWabArzF1v/view?usp=sharing' target="_blank">
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -80,7 +80,7 @@ const Projects = () => {
         <div className="buttons">
         <a href='https://github.com/Dhina0508/Flood-foresight-app-SIH-project-' target="_blank">
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1Jpl4HRff_MzJkrxzSDiufHCShsl9Z5ue/view?usp=drive_link' target="_blank">
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
