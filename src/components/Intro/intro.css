@@ -12,7 +12,7 @@
     position: absolute;
     z-index: -1;
     top: 0;
-    right: 0;
+    right: 5rem;
     object-fit: cover;
     height: 100vh;
 }
@@ -43,6 +43,7 @@
     font-size: medium;
     font-weight: 300;
     letter-spacing: 1px;
+    max-width: 60vw;
 }
 
 .btn{
@@ -69,27 +70,27 @@
 } */
 
 @media screen and (max-width:450px) {
-    .bg{
-        right: -20vw;
-    }
+
     .hello{
         font-size: 1rem;
         font-weight: 100;
-    }
+    } 
 
     
 .introPara{
     font-size: small;
     font-weight: 200;
     letter-spacing: 0.7px;
+    max-width: 90vw;
 }
 
 
 .introContent{
     height: 100vh;
     width: 100vw;
-    padding: 0.5rem;
-    font-size: 1.5rem;
+    padding-top:35vh;
+    padding-right: 3rem;
+    font-size: 2rem;
     font-weight: 600;
     display: flex;
     flex-direction: column;
