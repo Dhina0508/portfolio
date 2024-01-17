@@ -32,7 +32,7 @@ const Projects = () => {
         Application allows you to seamless booking hotels, rent vehicles, explore renowned eateries, and discover iconic destinations all on a single platform.
         </p> */}
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/tourism_app/tree/master' target="_blank">
+        <a href='https://github.com/Dhina0508/tourism_app/tree/master' target="_blank" rel='' >
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
           <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank">
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
@@ -45,9 +45,9 @@ const Projects = () => {
     <div className="projectText"> <h4 className="projectInfo">
         Blood Donation App   </h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/Blood-Donation-app' target="_blank">
+        <a href='https://github.com/Dhina0508/Blood-Donation-app' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1DUYAke_uIw-PAkPGncgqAi6lFyF57hwM/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1DUYAke_uIw-PAkPGncgqAi6lFyF57hwM/view?usp=sharing' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -56,9 +56,9 @@ const Projects = () => {
     <div className="projectText"><h4 className="projectInfo">
         Notes App   </h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/NotesApp' target="_blank">
+        <a href='https://github.com/Dhina0508/NotesApp' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1e7esuub0JIdmsZDpP-sbqwjTEPMRjZW8/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1e7esuub0JIdmsZDpP-sbqwjTEPMRjZW8/view?usp=sharing' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -67,9 +67,9 @@ const Projects = () => {
     <div className="projectText"> <h4 className="projectInfo">
         Community App - ECYC   </h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/community-app' target="_blank">
+        <a href='https://github.com/Dhina0508/community-app' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1JsLFsyn9fZEWSLGOT4M8TiEWabArzF1v/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1JsLFsyn9fZEWSLGOT4M8TiEWabArzF1v/view?usp=sharing' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -78,9 +78,9 @@ const Projects = () => {
     <div className="projectText">  <h4 className="projectInfo">
         Flood Prediction App   </h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/Flood-foresight-app-SIH-project-' target="_blank">
+        <a href='https://github.com/Dhina0508/Flood-foresight-app-SIH-project-' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1Jpl4HRff_MzJkrxzSDiufHCShsl9Z5ue/view?usp=drive_link' target="_blank">
+          <a href='https://drive.google.com/file/d/1Jpl4HRff_MzJkrxzSDiufHCShsl9Z5ue/view?usp=drive_link' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -89,9 +89,9 @@ const Projects = () => {
     <div className="projectText"> <h4 className="projectInfo">
         Medical Tracker App   </h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/Medical-Tracker-App' target="_blank">
+        <a href='https://github.com/Dhina0508/Medical-Tracker-App' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>
@@ -100,9 +100,9 @@ const Projects = () => {
     <div className="projectText"> <h4 className="projectInfo">
         Beauty parlour and Salon App</h4>
         <div className="buttons">
-        <a href='https://github.com/Dhina0508/barbar_shop' target="_blank">
+        <a href='https://github.com/Dhina0508/barbar_shop' target="_blank" rel=''>
           <button className='button'><FontAwesomeIcon icon={faFileText} /> Source Code</button></a>
-          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank">
+          <a href='https://drive.google.com/file/d/1d1k8oSRfdlBYbYsbhV0YtzWLRaLJ-s35/view?usp=sharing' target="_blank" rel=''>
           <button className='button'> <FontAwesomeIcon icon={faDownload} /> Apk Download</button></a>
         </div>
   </div></div>

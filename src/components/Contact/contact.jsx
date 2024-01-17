@@ -35,13 +35,13 @@ const Contact = () => {
 <button type='submit'  value='Send' className="submitButton">Submit</button>
 <div className="links">
 {/* <IoMdCall className='call' /> */}
-<a href='https://www.linkedin.com/in/dhinakaran-r-8574461bb/' target="_blank">
+<a href='https://www.linkedin.com/in/dhinakaran-r-8574461bb/' target="_blank" rel=''>
     <img src={LinkedIn} alt="linkedIn"  className="link" /></a>
     <a href='https://github.com/Dhina0508' target="_blank">
     <img src={Github} alt="Github" className="link" /></a>
-    <a href='https://www.instagram.com/_imagination_king_05/' target="_blank">
+    <a href='https://www.instagram.com/_imagination_king_05/' target="_blank" rel=''>
     <img src={Insta} alt="Insta" className="link" /></a>
-    <a href='https://www.facebook.com/profile.php?id=100024288769685' target="_blank">
+    <a href='https://www.facebook.com/profile.php?id=100024288769685' target="_blank" rel=''>
     <img src={FaceBook} alt="Facebook" className="link" /></a>
 
 </div>
