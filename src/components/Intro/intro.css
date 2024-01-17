@@ -70,6 +70,9 @@
 } */
 
 @media screen and (max-width:450px) {
+    .bg{
+        right: 0vw;
+    }
 
     .hello{
         font-size: 1rem;
