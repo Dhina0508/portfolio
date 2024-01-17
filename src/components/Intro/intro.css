@@ -68,8 +68,32 @@
     }
 } */
 
-/* @media screen and (max-width:450px) {
+@media screen and (max-width:450px) {
     .bg{
         right: -20vw;
     }
-} */
+    .hello{
+        font-size: 1rem;
+        font-weight: 100;
+    }
+
+    
+.introPara{
+    font-size: small;
+    font-weight: 200;
+    letter-spacing: 0.7px;
+}
+
+
+.introContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+}
